@@ -4,7 +4,7 @@
 #
 Name     : dbxtool
 Version  : 338a2d097b79faba9505a913c2cfc5916b6ffa9a
-Release  : 2
+Release  : 3
 URL      : https://github.com/rhboot/dbxtool/archive/338a2d097b79faba9505a913c2cfc5916b6ffa9a.tar.gz
 Source0  : https://github.com/rhboot/dbxtool/archive/338a2d097b79faba9505a913c2cfc5916b6ffa9a.tar.gz
 Summary  : Secure Boot DBX updater
